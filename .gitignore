@@ -1,0 +1,11 @@
+artifact
+experiment
+models
+ocr_captcha.egg-info
+test.py
+logs
+mlruns
+data
+checkpoints_80percent
+remote_repo
+
